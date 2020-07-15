@@ -1,0 +1,62 @@
+
+.Line h1{
+    color:black;
+    font: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.class{
+    border: 3px solid black;
+    background: grey;
+    text-align: center;
+    width: 600px;
+    height: 200px;
+    
+}
+
+.class #c1{
+    margin: 0px;
+    margin-left: 396px;
+    width: 200px;
+    height: 40px;
+    border-bottom: 3px solid black;
+    border-left: 3px solid black;
+    text-align:center;
+    background: plum;
+    color: black;
+    /*display: inline;*/
+    
+
+}
+
+.class #c2{
+    margin: 0px;
+    margin-left: 396px;
+    width: 200px;
+    height: 40px;
+    border-bottom: 3px solid black;
+    border-left: 3px solid black;
+    text-align:center;
+    background: red;
+    color: white;
+}
+
+
+.class #c3{
+    margin: 0px;
+    margin-left: 396px;
+    width: 200px;
+    height: 40px;
+    border-bottom: 3px solid black;
+    border-left: 3px solid black;
+    text-align:center;
+    background: yellow;
+    color: black;
+}
